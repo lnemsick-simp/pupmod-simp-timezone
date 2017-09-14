@@ -1,4 +1,4 @@
-# puppet-timezone [![Build Status](https://secure.travis-ci.org/saz/puppet-timezone.png)](http://travis-ci.org/saz/puppet-timezone)
+# puppet-timezone
 
 Manage timezone settings via Puppet
 
